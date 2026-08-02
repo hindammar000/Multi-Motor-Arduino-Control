@@ -45,11 +45,3 @@ The system operates continuously via the `loop()` function in four timed phases:
 4. **Phase 4 (Turn Maneuver B):** Alternate motor rotation directions for **5 seconds** (`5000 ms`) before restarting the sequence.
 
 ---
-
-## 💻 How to Run on Tinkercad
-
-1. Open your project on **[Tinkercad Circuits](https://www.tinkercad.com/)**.
-2. Click on the **Code** button at the top right.
-3. Switch the code editor mode from **Blocks** to **Text**.
-4. Copy the code from `main.ino` and paste it into the editor.
-5. Click **Start Simulation** to observe the automated movement sequence.
